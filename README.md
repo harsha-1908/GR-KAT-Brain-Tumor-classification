@@ -10,7 +10,7 @@ The implementation supports controlled ablation experiments and reproducible tra
 
 - MRI Brain Tumor Classification (4 classes)
 - Group-wise Rational Nonlinearities
-- Rational-order configuration **(m,n) = (4,3)**
+- Rational-order configuration **(m,n) = (5,4)**
 - Template-based initialization (GELU / Swish style)
 - Fully learnable nonlinear mappings
 - Reproducible training pipeline
